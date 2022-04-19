@@ -1,0 +1,8 @@
+#navigation-bar{
+    color: white;
+    align-content: flex-end;
+
+}
+.navbar-brand {
+    font-size: small;
+}
