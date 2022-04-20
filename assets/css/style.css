@@ -1,8 +1,6 @@
-#navigation-bar{
-    color: white;
-    align-content: flex-end;
-
+body{
+    background-color: black;
 }
-.navbar-brand {
-    font-size: small;
+.header{
+    color: white;
 }
